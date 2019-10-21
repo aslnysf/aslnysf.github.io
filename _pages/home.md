@@ -36,10 +36,10 @@ feature_row:
 
 ## Brief Bio
 
-I co-founded and am CTO at [Wayve](https://wayve.ai/), a UK start-up pioneering end-to-end deep learning technology for autonomous driving.
+I co-founded and am CTO at [Wayve](https://wayve.ai/), a London-based start-up pioneering end-to-end deep learning algorithms for autonomous driving.
 Additionally, I hold a research fellowship at [Trinity College](https://www.trin.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/).
 I grew up in New Zealand, studied mechatronics engineering at [Auckland University](https://www.auckland.ac.nz/), was awarded a [Woolf Fisher Scholarship](http://www.woolffishertrust.co.nz/), helped design the algorithms which fly the [Skydio drone](https://www.skydio.com/), before completing a PhD in computer vision and robotics at [Cambridge University](https://www.cam.ac.uk/). 
-My work has appeared at leading computer vision, robotics and machine learning conferences. 
+My [research](https://scholar.google.co.uk/citations?user=hE2mTp4AAAAJ) has appeared at leading computer vision, robotics and machine learning conferences. 
 I'm interested in building robots which can learn to do more intelligent things with less data.
 
 <div id='featured'></div>
