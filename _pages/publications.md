@@ -41,7 +41,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 ## 2019
 
 > <small>
-    Jeffrey Hawke et al. Urban Driving with Conditional Imitation Learning.  arXiv preprint, 2019.<br>
+    Jeffrey Hawke et al. Urban Driving with Conditional Imitation Learning.  NeurIPS 2019 Workshop on Machine Learning for Autonomous Driving, 2019.<br>
     (<a href="https://arxiv.org/pdf/1912.00177.pdf" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_bsd');">bibtex</a>)
 </small>
