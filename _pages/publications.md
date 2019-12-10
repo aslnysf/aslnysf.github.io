@@ -41,6 +41,22 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 ## 2019
 
 > <small>
+    Jeffrey Hawke et al. Urban Driving with Conditional Imitation Learning.  arXiv preprint, 2019.<br>
+    (<a href="https://arxiv.org/pdf/1912.00177.pdf" style="color:gray">.pdf</a>)
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_bsd');">bibtex</a>)
+</small>
+<div id="bibtex_bsd" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{hawke2019urban,
+  title={Urban Driving with Conditional Imitation Learning},
+  author={Hawke, Jeffrey and Shen, Richard and Gurau, Corina and Sharma, Siddharth and Reda, Daniele and Nikolov, Nikolay and Mazur, Przemyslaw and Micklethwaite, Sean and Griffiths, Nicolas and Shah, Amar and Kendall, Alex},
+  journal={arXiv preprint arXiv:1912.00177},
+  year={2019}
+}
+</code></pre></div></small>
+</div>
+
+> <small>
     Thomas Roddick, Alex Kendall and Roberto Cipolla. Orthographic Feature Transform for Monocular 3D Object Detection.  Proceedings of the British Machine Vision Conference (BMVC), 2019.<br>
     <b>(Oral, Best Paper Honourable Mention)</b>
     (<a href="https://arxiv.org/pdf/1811.08188.pdf" style="color:gray">.pdf</a>)
