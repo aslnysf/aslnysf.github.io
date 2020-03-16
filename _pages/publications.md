@@ -38,10 +38,44 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
+## 2020
+
+> <small>
+    Anthony Hu, Fergal Cotter, Nikhil Mohan, Corina Gurau, Alex Kendall. "Probabilistic Future Prediction for Video Scene Understanding." arXiv preprint arXiv:2003.06409 (2020).<br>
+    (<a href="https://arxiv.org/pdf/2003.06409.pdf" style="color:gray">.pdf</a>)
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_hu2020future');">bibtex</a>)
+</small>
+<div id="bibtex_hu2020future" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{hu2020videoinstance,
+  title={Probabilistic Future Prediction for Video Scene Understanding},
+  author={Hu, Anthony and Cotter, Fergal and Mohan, Nikhil and Gurau, Corina and Kendall, Alex},
+  journal={arXiv preprint arXiv:2003.06409},
+  year={2020}
+}
+</code></pre></div></small>
+</div>
+
+> <small>
+    Anthony Hu, Alex Kendall and Roberto Cipolla. "Learning a Spatio-Temporal Embedding for Video Instance Segmentation." arXiv preprint arXiv:1912.08969 (2019).<br>
+    (<a href="https://arxiv.org/pdf/1912.08969.pdf" style="color:gray">.pdf</a>)
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_hu2020videoinstance');">bibtex</a>)
+</small>
+<div id="bibtex_hu2020videoinstance" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{hu2020videoinstance,
+  title={Learning a Spatio-Temporal Embedding for Video Instance Segmentation},
+  author={Hu, Anthony and Kendall, Alex and Cipolla, Roberto},
+  journal={arXiv preprint arXiv:1912.08969},
+  year={2020}
+}
+</code></pre></div></small>
+</div>
+
 ## 2019
 
 > <small>
-    Jeffrey Hawke et al. Urban Driving with Conditional Imitation Learning.  NeurIPS 2019 Workshop on Machine Learning for Autonomous Driving, 2019.<br>
+    Jeffrey Hawke et al. Urban Driving with Conditional Imitation Learning.  Proceedings of the International Conference on Robotics and Automation (ICRA), 2020.<br>
     (<a href="https://arxiv.org/pdf/1912.00177.pdf" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_bsd');">bibtex</a>)
 </small>
