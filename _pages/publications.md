@@ -57,7 +57,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </div>
 
 > <small>
-    Anthony Hu, Alex Kendall and Roberto Cipolla. "Learning a Spatio-Temporal Embedding for Video Instance Segmentation." arXiv preprint arXiv:1912.08969 (2019).<br>
+    Anthony Hu, Alex Kendall and Roberto Cipolla. "Learning a Spatio-Temporal Embedding for Video Instance Segmentation." arXiv preprint arXiv:1912.08969 (2020).<br>
     (<a href="https://arxiv.org/pdf/1912.08969.pdf" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_hu2020videoinstance');">bibtex</a>)
 </small>
