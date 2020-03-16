@@ -72,8 +72,6 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-## 2019
-
 > <small>
     Jeffrey Hawke et al. Urban Driving with Conditional Imitation Learning.  Proceedings of the International Conference on Robotics and Automation (ICRA), 2020.<br>
     (<a href="https://arxiv.org/pdf/1912.00177.pdf" style="color:gray">.pdf</a>)
@@ -84,11 +82,13 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 <code>@article{hawke2019urban,
   title={Urban Driving with Conditional Imitation Learning},
   author={Hawke, Jeffrey and Shen, Richard and Gurau, Corina and Sharma, Siddharth and Reda, Daniele and Nikolov, Nikolay and Mazur, Przemyslaw and Micklethwaite, Sean and Griffiths, Nicolas and Shah, Amar and Kendall, Alex},
-  journal={arXiv preprint arXiv:1912.00177},
-  year={2019}
+  booktitle={Proceedings of the International Conference on Robotics and Automation ({ICRA})},
+  year={2020}
 }
 </code></pre></div></small>
 </div>
+
+## 2019
 
 > <small>
     Thomas Roddick, Alex Kendall and Roberto Cipolla. Orthographic Feature Transform for Monocular 3D Object Detection.  Proceedings of the British Machine Vision Conference (BMVC), 2019.<br>
