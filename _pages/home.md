@@ -37,9 +37,10 @@ feature_row:
 ## Brief Bio
 
 I co-founded and am CTO at [Wayve](https://wayve.ai/), a London-based start-up pioneering end-to-end deep learning algorithms for autonomous driving.
+We've raised over US$25m of funding and our team is the first company to be testing self-driving vehicles in central London.
 Additionally, I hold a research fellowship at [Trinity College](https://www.trin.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/).
 I grew up in New Zealand, studied mechatronics engineering at [Auckland University](https://www.auckland.ac.nz/), was awarded a [Woolf Fisher Scholarship](http://www.woolffishertrust.co.nz/), helped design the algorithms which fly the [Skydio drone](https://www.skydio.com/), before completing a PhD in computer vision and robotics at [Cambridge University](https://www.cam.ac.uk/). 
-My [research](https://scholar.google.co.uk/citations?user=hE2mTp4AAAAJ) has appeared at leading computer vision, robotics and machine learning conferences. 
+My [research](https://scholar.google.co.uk/citations?user=hE2mTp4AAAAJ) has appeared at leading computer vision, robotics and machine learning conferences, is the recipient of [UK](https://britishmachinevisionassociation.github.io/bursaries/sullivan-prize.html) and [European](https://ellis.eu/en/news/ellis-phd-award) awards for scientific impact and I've been named on the [Forbes 30 Under 30](https://www.forbes.com/profile/alex-kendall/?list=30under30-europe-big-money-startups#1b95c2317283) young innovators list.
 I'm interested in building robots which can learn to do more intelligent things with less data.
 
 <div id='featured'></div>
@@ -47,6 +48,7 @@ I'm interested in building robots which can learn to do more intelligent things 
 {% include feature_row %}
 
 ## News and Media
+* March 2020: I was named in the 2020 [Forbes 30 Under 30](https://www.forbes.com/profile/alex-kendall/?list=30under30-europe-big-money-startups#1b95c2317283) young innovators list for my work in technology.
 * September 2019: My PhD was awarded an [ELLIS European PhD Prize](https://ellis.eu/en/news/ellis-phd-award) and the [2018 BMVA Prize](https://britishmachinevisionassociation.github.io/bursaries/sullivan-prize.html) for best PhD Thesis.
 * November 2018: After presenting Wayve to a crowd of 15,000 in Lisbon, Portugal, we were named [PITCH Champions at WebSummit](https://youtu.be/sn-_29bknz8?t=548). See the post-ceremony [interview here](https://www.facebook.com/WebSummitHQ/videos/alex-kendall-co-founder-and-cto-of-wayve-live-at-web-summit/764089603927542/).
 * May 2018: [Wayve](https://wayve.ai/) comes out of stealth and announces the development of end-to-end machine learning for self-driving [[techcrunch](https://techcrunch.com/2018/05/22/wayve/), [reuters](https://uk.reuters.com/video/2018/07/27/autonomous-car-teaches-itself-to-drive-i?videoId=449225967&videoChannel=4000)]
