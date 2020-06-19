@@ -12,6 +12,15 @@ header:
   overlay_image: /assets/images/trinity.jpg
   caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
 
+feature_row_cvpr20:
+  - image_path: /media/presentations/cvpr2020_alex_kendall.jpg
+    alt: "Alex Kendall, End-to-End Deep Learning for Autonomous Driving, CVPR 2020"
+    title: 'Keynote at CVPR Workshop, Seattle (Virtually), USA, June 2020.'
+    excerpt: '<a href="https://sites.google.com/view/cvpr20-scalability">Workshop on Scalability in Autonomous Driving</a>, co-organised by Waymo and Oxford's VGG.'    
+    btn_label: "Recorded Talk (youtube)"
+    btn_class: "btn--inverse"
+    url: "https://youtu.be/rfXQH3CyL4Q"
+
 feature_row_icvss19:
   - image_path: /assets/images/icvss_2019.jpg
     alt: "Alex Kendall, Deep Learning for Scene Understanding, ICVSS, Sicily, 2019"
@@ -128,6 +137,7 @@ feature_row_perse:
     
 ---
 
+{% include feature_row id="feature_row_cvpr20" type="left" %}
 {% include feature_row id="feature_row_icvss19" type="left" %}
 {% include feature_row id="feature_row_cvpr19" type="left" %}
 {% include feature_row id="feature_row_cogx" type="left" %}
