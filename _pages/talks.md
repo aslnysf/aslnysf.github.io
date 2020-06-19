@@ -16,10 +16,13 @@ feature_row_cvpr20:
   - image_path: /media/presentations/cvpr2020_alex_kendall.jpg
     alt: "Alex Kendall, End-to-End Deep Learning for Autonomous Driving, CVPR 2020"
     title: 'Keynote at CVPR Workshop, Seattle (Virtually), USA, June 2020.'
-    excerpt: '<a href="https://sites.google.com/view/cvpr20-scalability">Workshop on Scalability in Autonomous Driving, co-organised by Waymo and Oxford's VGG.</a>'    
+    excerpt: "Workshop on Scalability in Autonomous Driving, co-organised by Waymo and Oxford's VGG."
     btn_label: "Recorded Talk (youtube)"
     btn_class: "btn--inverse"
     url: "https://youtu.be/rfXQH3CyL4Q"
+    btn_class2: "btn--inverse"
+    btn_label2: "Workshop (website)"
+    url2: "https://sites.google.com/view/cvpr20-scalability"
 
 feature_row_icvss19:
   - image_path: /assets/images/icvss_2019.jpg
