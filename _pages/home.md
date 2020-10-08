@@ -37,10 +37,10 @@ feature_row:
 ## Brief Bio
 
 I co-founded and am CEO at [Wayve](https://wayve.ai/), a London-based start-up pioneering end-to-end deep learning algorithms for autonomous driving.
-We've raised over US$25m of funding and our team is the first company to be testing self-driving vehicles in central London.
+We've raised over US$44m of funding and our team is the first company to be testing self-driving vehicles in central London.
 Additionally, I hold a research fellowship at [Trinity College](https://www.trin.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/).
 I grew up in New Zealand, studied mechatronics engineering at [Auckland University](https://www.auckland.ac.nz/), was awarded a [Woolf Fisher Scholarship](http://www.woolffishertrust.co.nz/), helped design the algorithms which fly the [Skydio drone](https://www.skydio.com/), before completing a PhD in computer vision and robotics at [Cambridge University](https://www.cam.ac.uk/). 
-My [research](https://scholar.google.co.uk/citations?user=hE2mTp4AAAAJ) has appeared at leading computer vision, robotics and machine learning conferences, is the recipient of [UK](https://britishmachinevisionassociation.github.io/bursaries/sullivan-prize.html) and [European](https://ellis.eu/en/news/ellis-phd-award) awards for scientific impact and I've been named on the [Forbes 30 Under 30](https://www.forbes.com/profile/alex-kendall/?list=30under30-europe-big-money-startups#1b95c2317283) young innovators list.
+My [research](https://scholar.google.co.uk/citations?user=hE2mTp4AAAAJ) has appeared at leading computer vision, robotics and machine learning conferences, is the recipient of [UK](https://britishmachinevisionassociation.github.io/bursaries/sullivan-prize.html) and [European](https://ellis.eu/en/news/ellis-phd-award) awards for scientific impact. I've been selected on the Royal Academy of Engineering's [SME Leaders Programme](https://enterprisehub.raeng.org.uk/hub-central/news/twelve-new-engineering-innovators-welcomed-hubs-sme-leaders-programme/) and I've been named on the [Forbes 30 Under 30](https://www.forbes.com/profile/alex-kendall/?list=30under30-europe-big-money-startups#1b95c2317283) young innovators list.
 I'm interested in building robots which can learn to do more intelligent things with less data.
 
 <div id='featured'></div>
