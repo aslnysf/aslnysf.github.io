@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /blog/
 ---
 
 <div class="posts">
@@ -16,3 +17,4 @@ layout: default
     </article>
   {% endfor %}
 </div>
+

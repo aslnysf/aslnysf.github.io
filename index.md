@@ -1,13 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+
+
+---
+
+## Bio
 ---
 
 ...
 
-
-### Contact me
+---
+#### Contact
 
 [yusufaslan093@gmail.com](mailto:yusufaslan093@gmail.com)
 
