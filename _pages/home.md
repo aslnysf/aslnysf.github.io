@@ -48,7 +48,7 @@ I'm interested in building robots which can learn to do more intelligent things 
 {% include feature_row %}
 
 ## News and Media
-* March 2021: Sir Richard Branson (an investor in Wayve) published a [blog and interview with me here](https://www.virgin.com/branson-family/richard-branson-blog/supporting-wayve-to-make-self-driving-cars-a-day-to-day-reality).
+* March 2021: Sir Richard Branson (an investor in Wayve) published a [blog and interview with me](https://www.virgin.com/branson-family/richard-branson-blog/supporting-wayve-to-make-self-driving-cars-a-day-to-day-reality).
 * March 2021: see my [opinion piece](https://www.wired.co.uk/article/alex-kendall-machine-learning) in _Wired_ discussing the implications of Embodied AI.
 * February 2021: I featured on [ARK Invest's podcast](https://ark-invest.com/podcast/ep-90-autonomous-vehicles-wayve-ai/) discussing autonomous vehicles powered by end-to-end deep learning.
 * March 2020: I was named in the 2020 [Forbes 30 Under 30](https://www.forbes.com/profile/alex-kendall/?list=30under30-europe-big-money-startups#1b95c2317283) young innovators list for my work in technology.
