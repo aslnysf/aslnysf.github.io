@@ -12,6 +12,18 @@ header:
   overlay_image: /assets/images/trinity.jpg
   caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
 
+feature_row_cvpr21:
+  - image_path: /assets/images/cvpr_2021_wad_alex_kendall.jpg
+    alt: "Alex Kendall, Wayve, Workshop on Autonomous Driving, CVPR 2021"
+    title: 'CVPR Workshop on Autonomous Driving, June 2021.'
+    excerpt: "Keynote talk."
+    btn_label: "Recorded Talk (youtube)"
+    btn_class: "btn--inverse"
+    url: "https://youtu.be/Va-F4qtTQ6g"
+    btn_class2: "btn--inverse"
+    btn_label2: "Workshop (website)"
+    url2: "http://cvpr2021.wad.vision/"
+
 feature_row_cvpr20:
   - image_path: /media/presentations/cvpr2020_alex_kendall.jpg
     alt: "Alex Kendall, End-to-End Deep Learning for Autonomous Driving, CVPR 2020"
@@ -140,6 +152,7 @@ feature_row_perse:
     
 ---
 
+{% include feature_row id="feature_row_cvpr21" type="left" %}
 {% include feature_row id="feature_row_cvpr20" type="left" %}
 {% include feature_row id="feature_row_icvss19" type="left" %}
 {% include feature_row id="feature_row_cvpr19" type="left" %}
