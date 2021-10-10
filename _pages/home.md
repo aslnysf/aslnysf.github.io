@@ -35,12 +35,7 @@ feature_row:
 ---
 
 ## Brief Bio
-I co-founded and am CEO at [Wayve](https://wayve.ai/), a London-based start-up pioneering end-to-end deep learning algorithms for autonomous driving.
-We've raised over US$44m of funding and our team is the first company to be testing self-driving vehicles in central London.
-Additionally, I hold a research fellowship at [Trinity College](https://www.trin.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/).
-I grew up in New Zealand, studied mechatronics engineering at [Auckland University](https://www.auckland.ac.nz/), was awarded a [Woolf Fisher Scholarship](http://www.woolffishertrust.co.nz/), helped design the algorithms which fly the [Skydio drone](https://www.skydio.com/), before completing a PhD in computer vision and robotics at [Cambridge University](https://www.cam.ac.uk/). 
-My [research](https://scholar.google.co.uk/citations?user=hE2mTp4AAAAJ) has appeared at leading computer vision, robotics and machine learning conferences, is the recipient of [UK](https://britishmachinevisionassociation.github.io/bursaries/sullivan-prize.html) and [European](https://ellis.eu/en/news/ellis-phd-award) awards for scientific impact. I've been selected on the Royal Academy of Engineering's [SME Leaders Programme](https://enterprisehub.raeng.org.uk/hub-central/news/twelve-new-engineering-innovators-welcomed-hubs-sme-leaders-programme/) and I've been named on the [Forbes 30 Under 30](https://www.forbes.com/profile/alex-kendall/?list=30under30-europe-big-money-startups#1b95c2317283) young innovators list.
-I'm interested in building robots which can learn to do more intelligent things with less data.
+Alex Kendall is an award-winning researcher and technology leader who is building artificial intelligence systems that are embodied in the physical world. He is the co-founder and CEO of [Wayve](https://wayve.ai/), a London-based start-up pioneering a new approach to autonomous driving: AV2.0. Wayve has raised $60m and is a team of world-leading technologists who are the first to deploy next generation self-driving technology that can scale and adapt to any driving condition, anywhere in the world, unlocking the promise of autonomy. Additionally, Alex is a research fellow at [Trinity College](https://www.trin.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where he completed his PhD as a [Woolf Fisher Scholar](http://www.woolffishertrust.co.nz/). Alex's [research](https://scholar.google.co.uk/citations?user=hE2mTp4AAAAJ) has appeared at leading computer vision, robotics and machine learning conferences, is the recipient of [UK](https://britishmachinevisionassociation.github.io/bursaries/sullivan-prize.html) and [European](https://ellis.eu/en/news/ellis-phd-award) awards for scientific impact. He has been selected on the Royal Academy of Engineering's [SME Leaders Programme](https://enterprisehub.raeng.org.uk/hub-central/news/twelve-new-engineering-innovators-welcomed-hubs-sme-leaders-programme/) and named on the [Forbes 30 Under 30](https://www.forbes.com/profile/alex-kendall/?list=30under30-europe-big-money-startups#1b95c2317283) list.
 {: .notice--primary}
 
 <div id='featured'></div>
@@ -48,9 +43,9 @@ I'm interested in building robots which can learn to do more intelligent things 
 {% include feature_row %}
 
 ## News and Media
-* March 2021: Sir Richard Branson (an investor in Wayve) published a [blog and interview with me](https://www.virgin.com/branson-family/richard-branson-blog/supporting-wayve-to-make-self-driving-cars-a-day-to-day-reality).
-* March 2021: see my [opinion piece](https://www.wired.co.uk/article/alex-kendall-machine-learning) in _Wired_ discussing the implications of Embodied AI.
-* February 2021: I featured on [ARK Invest's podcast](https://ark-invest.com/podcast/ep-90-autonomous-vehicles-wayve-ai/) discussing autonomous vehicles powered by end-to-end deep learning.
+* March 2021: [Interview](https://www.virgin.com/branson-family/richard-branson-blog/supporting-wayve-to-make-self-driving-cars-a-day-to-day-reality) with Sir Richard Branson.
+* March 2021: [My opinion piece](https://www.wired.co.uk/article/alex-kendall-machine-learning) appeared in _Wired_ discussing the implications of Embodied AI.
+* February 2021: [ARK Invest's podcast](https://ark-invest.com/podcast/ep-90-autonomous-vehicles-wayve-ai/) discussing autonomous vehicles powered by end-to-end deep learning.
 * March 2020: I was named in the 2020 [Forbes 30 Under 30](https://www.forbes.com/profile/alex-kendall/?list=30under30-europe-big-money-startups#1b95c2317283) young innovators list for my work in technology.
 * September 2019: My PhD was awarded an [ELLIS European PhD Prize](https://ellis.eu/en/news/ellis-phd-award) and the [2018 BMVA Prize](https://britishmachinevisionassociation.github.io/bursaries/sullivan-prize.html) for best PhD Thesis.
 * November 2018: After presenting Wayve to a crowd of 15,000 in Lisbon, Portugal, we were named [PITCH Champions at WebSummit](https://youtu.be/sn-_29bknz8?t=548). See the post-ceremony [interview here](https://www.facebook.com/WebSummitHQ/videos/alex-kendall-co-founder-and-cto-of-wayve-live-at-web-summit/764089603927542/).
