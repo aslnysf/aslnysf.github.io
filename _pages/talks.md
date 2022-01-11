@@ -120,11 +120,8 @@ feature_row_geo_unc:
     title: 'Geometry and Uncertainty in Deep Learning for Computer Vision'
     excerpt: '<ul><li>Imperial College, July 3rd 2017, London, UK.</li><li>Oxford University, March 20th 2017, Oxford, UK.</li><li>Bristol University, March 21st 2017, Bristol, UK.</li></ul>'
     btn_class: "btn--inverse"
-    btn_label: "Presentation (.pptx, 542MB)"
-    url: "http://mi.eng.cam.ac.uk/~agk34/resources/documents/oxford_seminar.pptx"
-    btn_class2: "btn--inverse"
-    btn_label2: "Presentation (.pdf)"
-    url2: "/media/presentations/oxford_seminar.pdf"
+    btn_label: "Presentation (.pdf)"
+    url: "/media/presentations/oxford_seminar.pdf"
     
 feature_row_cucl:
   - image_path: /assets/images/presentations/learning_to_see.jpg

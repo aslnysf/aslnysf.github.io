@@ -38,19 +38,55 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
+## 2021
+
+> <small>
+    Jeffrey Hawke, Haibo E, Vijay Badrinarayanan and Alex Kendall. "Reimagining an Autonomous Vehicle." arXiv preprint arXiv:2108.05805, 2021.<br>
+    (<a href="https://arxiv.org/pdf/2108.05805.pdf" style="color:gray">.pdf</a>)
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('hawke2021reimagining');">bibtex</a>)
+</small>
+<div id="hawke2021reimagining" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{hawke2021reimagining,
+  title={Reimagining an Autonomous Vehicle},
+  author={Hawke, Jeffrey and E, Haibo and Badrinarayanan, Vijay and Kendall, Alex},
+  journal={arXiv preprint arXiv:2108.05805},
+  year={2021}
+}
+</code></pre></div></small>
+</div>
+
+> <small>
+    Anthony Hu, Zak Murez, Nikhil Mohan, Sofía Dudas, Jeffrey Hawke, Vijay Badrinarayanan, Roberto Cipolla, Alex Kendall. "FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras." Proceedings of the International Conference on Computer Vision (ICCV), 2021.<br>
+    <b>(Oral)</b>
+    (<a href="https://arxiv.org/pdf/2104.10490.pdf" style="color:gray">.pdf</a>)
+    (<a href="https://github.com/wayveai/fiery" style="color:gray">code</a>)
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_hu2021future');">bibtex</a>)
+</small>
+<div id="bibtex_hu2021future" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{hu2021fiery,
+  title={FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras},
+  author={Hu, Anthony and Murez, Zak and Mohan, Nikhil and Dudas, Sofía and Hawke, Jeffrey and Badrinarayanan, Vijay and Cipolla, Roberto and Kendall, Alex},
+  booktitle = {Proceedings of the International Conference on Computer Vision ({ICCV})},
+  year={2021}
+}
+</code></pre></div></small>
+</div>
+
 ## 2020
 
 > <small>
-    Anthony Hu, Fergal Cotter, Nikhil Mohan, Corina Gurau, Alex Kendall. "Probabilistic Future Prediction for Video Scene Understanding." arXiv preprint arXiv:2003.06409 (2020).<br>
+    Anthony Hu, Fergal Cotter, Nikhil Mohan, Corina Gurau, Alex Kendall. "Probabilistic Future Prediction for Video Scene Understanding." European Conference on Computer Vision (ECCV), 2020.<br>
     (<a href="https://arxiv.org/pdf/2003.06409.pdf" style="color:gray">.pdf</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_hu2020future');">bibtex</a>)
 </small>
 <div id="bibtex_hu2020future" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
-<code>@article{hu2020videoinstance,
+<code>@article{hu2020probabilistic,
   title={Probabilistic Future Prediction for Video Scene Understanding},
   author={Hu, Anthony and Cotter, Fergal and Mohan, Nikhil and Gurau, Corina and Kendall, Alex},
-  journal={arXiv preprint arXiv:2003.06409},
+  booktitle={European Conference on Computer Vision ({ECCV})},
   year={2020}
 }
 </code></pre></div></small>
@@ -261,7 +297,6 @@ Learning to Drive from Simulation without Real World Labels},
 > <small>
     Vijay Badrinarayanan, Alex Kendall and Roberto Cipolla. SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation. PAMI, 2017.<br>
     (<a href="http://arxiv.org/abs/1511.00561" style="color:gray">.pdf</a>)
-    (<a href="http://mi.eng.cam.ac.uk/~agk34/images/segnet_poster.png" style="color:gray">poster</a>)
     (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_segnet');">bibtex</a>)
     (<a href="http://mi.eng.cam.ac.uk/projects/segnet/" style="color:gray">Webpage</a>)
 </small>
@@ -303,7 +338,6 @@ Learning to Drive from Simulation without Real World Labels},
 > <small>
 Alex Kendall, Matthew Grimes and Roberto Cipolla. PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization. Proceedings of the International Conference on Computer Vision (ICCV), 2015.<br>
 (<a href="http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf" style="color:gray">.pdf</a>)
-(<a href="http://mi.eng.cam.ac.uk/~agk34/images/posenet_poster.png" style="color:gray">poster</a>)
 (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('bibtex_iccv');">bibtex</a>)
 (<a href="http://mi.eng.cam.ac.uk/projects/relocalisation/" style="color:gray">Webpage</a>)
 </small>
