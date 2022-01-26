@@ -1,7 +1,11 @@
 ---
-title: "CV"
-layout: minimal
+layout: single
+title: "Curriculum Vitae"
+sitemap: false
 permalink: /cv/
+author_profile: TRUE
+header:
+  image: assets/images/itu.jpg
 ---
 
-<iframe src="https://github.com/aslnysf/aslnysf.github.io/media/papers/YusufAslan-CV.pdf"></iframe>
+<embed src="https://aslnysf.github.io/media/papers/YusufAslan-CV.pdf" type="application/pdf" />
