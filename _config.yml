@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Yusuf Aslan"
-  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer"
   location         : "ICTA of Turkey - TR-CERT"
   uri              :
