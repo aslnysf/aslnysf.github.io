@@ -42,7 +42,7 @@ header:
 > <small>
     Xiyu Shi, Varuna De-Silva, Yusuf Aslan,Erhan Ekmekcioglu, Ahmet Kondoz. "Evaluating the Learning Procedure of CNNs through a Sequence of Prognostic Tests Utilising Information Theoretical Measures",Entropy, 24(1),67 2022.<br>
     (<a href="https://www.mdpi.com/1099-4300/24/1/67/pdf" style="color:gray">.pdf</a>)
-    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('hawke2021reimagining');">bibtex</a>)
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('shi2022mdpientropy');">bibtex</a>)
 </small>
 <div id="shi2022mdpientropy" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
