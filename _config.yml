@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : "Yusuf Aslan"
 description              : "Research Website and Blog."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aslnysf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aslnysf/aslnysf.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -80,7 +80,8 @@ author:
   name             : "Yusuf Aslan"
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer"
-  location         : "ICTA of Turkey - TR-CERT"
+  location         : "Ankara / Turkey"
+  email            : yusufaslan093@gmail.com
   uri              :
   bitbucket        :
   codepen          :
